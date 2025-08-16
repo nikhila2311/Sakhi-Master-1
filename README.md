@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
   <h1> 
     <img src="https://sakhi.vercel.app/logo.png" width="64px">
@@ -53,3 +54,6 @@ cd <repo-name>
 npm install
 npm run dev
 ```
+=======
+# Sakhi-Master
+>>>>>>> 16967e2a151045ed747a10b427082e24efed3d04
