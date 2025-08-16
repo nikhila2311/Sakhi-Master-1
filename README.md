@@ -38,8 +38,7 @@ https://github.com/VishwaGauravIn/sakhi/assets/96358784/ccc9a38f-ee90-42b5-aa64-
 
 ## Try out Sakhi App
 
-<a href="https://sakhi-master-1.vercel.app/login" download>
- Download the APK file
+##  https://sakhi-master-1.vercel.app/login
 </a>
 
 #### Note
